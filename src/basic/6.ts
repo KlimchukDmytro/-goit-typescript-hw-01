@@ -42,5 +42,5 @@ const poly = {
 
 
 
-console.log("5.ts");
+console.log("6.ts");
 console.log(mango, poly);

@@ -1,4 +1,4 @@
-console.log("6.ts");
+console.log("7.ts");
 
 type Page = {
   title: string;
